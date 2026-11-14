@@ -1,0 +1,1 @@
+export default function LoadingPage() { return <div role="status" aria-label="Loading page" className="site-container space-y-6 py-16"><div className="h-10 w-2/3 animate-pulse rounded-xl bg-muted" /><div className="h-60 animate-pulse rounded-2xl bg-muted" /><span className="sr-only">Loading…</span></div>; }
